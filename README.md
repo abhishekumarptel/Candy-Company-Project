@@ -1,0 +1,2 @@
+# Candy-Company-Project
+This project analyzes business profits for a candy company using Power BI. I imported the candy product data from pgAdmin, then cleaned and transformed it in Power BI’s Power Query environment. Afterward, I built a series of visualizations to gain insights into product sales, profitability, and inventory. The dashboard provides actionable insights to support business decision-making. This project showcases the process of data extraction, transformation, and visualization to improve business performance analysis.
